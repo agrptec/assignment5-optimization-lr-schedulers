@@ -1,14 +1,14 @@
 # Optimization and Learning Rate Schedulers
 
-Comparison of Gradient Descent, Momentum, and Adam with constant learning rate, tutorial decay, and Step LR Decay on the UCI Raisin dataset. Uses the 7–20–3–1 network and L1 λ = 0.7 selected in Assignment 4.
+The [notebook](Assignment_5_Optimization_LR_Schedulers.ipynb) keeps all 66 cells of the team's `Optimization_methods copy.ipynb` tutorial; only its setup cell changes so it can run in Colab. A final section compares Gradient Descent, Momentum, and Adam with constant learning rate, the tutorial decay, and Step LR Decay on the Raisin dataset, using the best Assignment 4 configuration.
 
 ## Usage
 
-[Open in Colab](https://colab.research.google.com/github/agrptec/assignment5-optimization-lr-schedulers/blob/main/Assignment_5_Optimization_LR_Schedulers.ipynb) and run all cells.
+[Open in Colab](https://colab.research.google.com/github/agrptec/assignment5-optimization-lr-schedulers/blob/main/Assignment_5_Optimization_LR_Schedulers.ipynb) and run all cells. The notebook fetches its tutorial helpers automatically. `images/` and the small Python helpers support the original tutorial.
 
 ## Submission
 
-Submit the executed notebook file and [PDF report](report/Assignment_5_Report.pdf) through Canvas, not a notebook link.
+Submit the executed `.ipynb` file and [PDF report](report/Assignment_5_Report.pdf) through Canvas, not the notebook link.
 
 ## Dataset
 
