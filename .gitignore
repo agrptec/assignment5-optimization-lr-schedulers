@@ -4,5 +4,14 @@ __pycache__/
 .venv/
 .env
 .DS_Store
-
 .hidden
+Optimization_methods*.ipynb
+opt_utils_v1a.py
+public_tests.py
+testCases.py
+testing_utils.py
+datasets/
+images/
+results/
+scripts/
+report/analysis.md

@@ -1,8 +1,4 @@
 numpy
 pandas
 matplotlib
-scipy
 scikit-learn
-h5py
-nbformat
-nbclient
