@@ -2,7 +2,7 @@
 
 ## Usage
 
-[Open in Colab](https://colab.research.google.com/github/agrptec/assignment5-optimization-lr-schedulers/blob/main/Assignment_5_Optimization_LR_Schedulers.ipynb) and run all cells. The notebook fetches its tutorial helpers automatically. `images/` and the small Python helpers support the original tutorial.
+[Open in Colab](https://colab.research.google.com/drive/1XVp9m45ikOKCaFjrCi7QQu2ygV5hQZOh?usp=sharing) and run all cells. The notebook fetches its tutorial helpers automatically. `images/` and the small Python helpers support the original tutorial.
 
 
 ## Dataset
