@@ -4,9 +4,6 @@
 
 [Open in Colab](https://colab.research.google.com/github/agrptec/assignment5-optimization-lr-schedulers/blob/main/Assignment_5_Optimization_LR_Schedulers.ipynb) and run all cells. The notebook fetches its tutorial helpers automatically. `images/` and the small Python helpers support the original tutorial.
 
-## Submission
-
-Submit the executed `.ipynb` file and [PDF report](report/Assignment_5_Report.pdf) through Canvas, not the notebook link.
 
 ## Dataset
 
